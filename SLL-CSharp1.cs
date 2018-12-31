@@ -1,4 +1,7 @@
-﻿using System;
+//   Linked-List - Implementation in Visual C#
+//1: Create a new Node in Singly-Linked-List
+
+using System;
 using static System.Console;
 
 namespace LinkedList
