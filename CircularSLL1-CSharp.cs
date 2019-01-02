@@ -1,4 +1,4 @@
-﻿// Circularly Linked-List
+﻿// Circularly SLL 
 
 using System;
 
